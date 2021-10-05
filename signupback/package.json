@@ -1,0 +1,19 @@
+{
+  "name": "signupback",
+  "version": "1.0.0",
+  "description": "signup back",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Justas",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.9",
+    "nodemon": "^2.0.13"
+  }
+}
